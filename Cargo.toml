@@ -1,0 +1,8 @@
+[package]
+name = "quiz-game"
+version = "0.1.0"
+edition = "2021"
+description = "Small command-line quiz game"
+license = "MIT"
+
+[dependencies]
